@@ -1,0 +1,5 @@
+{
+  "name": "Vector Search Explainer",
+  "description": "Interactive demonstration of K-Nearest Neighbors (KNN) vector search, calculating cosine similarity from scratch to explain RAG systems.",
+  "requestFramePermissions": []
+}
